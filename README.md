@@ -1,2 +1,4 @@
 # hello.c
-a small program giving hello world as output.
+a small program giving hello world as output
+Hello there..
+
